@@ -1,0 +1,1 @@
+<%@ Application Language="vb" CodeBehind="Global.asax.vb" Inherits="WebSolution2.Web.Global"%>
