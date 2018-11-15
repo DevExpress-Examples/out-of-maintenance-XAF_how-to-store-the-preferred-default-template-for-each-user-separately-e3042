@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[ChooseTemplateController.cs](./CS/WebSolution2.Module.Web/ChooseTemplateController.cs) (VB: [ChooseTemplateController.vb](./VB/WebSolution2.Module.Web/ChooseTemplateController.vb))**
+* [DefaultTemplateHelper.cs](./CS/WebSolution2.Module.Web/DefaultTemplateHelper.cs) (VB: [DefaultTemplateHelper.vb](./VB/WebSolution2.Module.Web/DefaultTemplateHelper.vb))
+* [WebApplication_.cs](./CS/WebSolution2.Web/ApplicationCode/WebApplication_.cs) (VB: [WebApplication_.vb](./VB/WebSolution2.Web/ApplicationCode/WebApplication_.vb))
+<!-- default file list end -->
 # How to store the preferred Default template for each user separately
 
 
